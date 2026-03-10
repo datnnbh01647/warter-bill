@@ -1,0 +1,253 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ky6\\Programming_ 7388\\Models\\WaterBillApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB8FECF1-C84C-460B-8244-383E9C7DBA10}|WaterBillApp\\WaterBillApp.csproj|D:\\ky6\\Programming_ 7388\\Models\\WaterBillApp\\waterbillapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AB8FECF1-C84C-460B-8244-383E9C7DBA10}|WaterBillApp\\WaterBillApp.csproj|solutionrelative:waterbillapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB8FECF1-C84C-460B-8244-383E9C7DBA10}|WaterBillApp\\WaterBillApp.csproj|d:\\ky6\\programming_ 7388\\models\\waterbillapp\\waterbillapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB8FECF1-C84C-460B-8244-383E9C7DBA10}|WaterBillApp\\WaterBillApp.csproj|solutionrelative:waterbillapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB8FECF1-C84C-460B-8244-383E9C7DBA10}|WaterBillApp\\WaterBillApp.csproj|D:\\ky6\\Programming_ 7388\\Models\\WaterBillApp\\waterbillapp\\electricbill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB8FECF1-C84C-460B-8244-383E9C7DBA10}|WaterBillApp\\WaterBillApp.csproj|solutionrelative:waterbillapp\\electricbill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB8FECF1-C84C-460B-8244-383E9C7DBA10}|WaterBillApp\\WaterBillApp.csproj|D:\\ky6\\Programming_ 7388\\Models\\WaterBillApp\\waterbillapp\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AB8FECF1-C84C-460B-8244-383E9C7DBA10}|WaterBillApp\\WaterBillApp.csproj|solutionrelative:waterbillapp\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB8FECF1-C84C-460B-8244-383E9C7DBA10}|WaterBillApp\\WaterBillApp.csproj|D:\\ky6\\Programming_ 7388\\Models\\WaterBillApp\\waterbillapp\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB8FECF1-C84C-460B-8244-383E9C7DBA10}|WaterBillApp\\WaterBillApp.csproj|solutionrelative:waterbillapp\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB8FECF1-C84C-460B-8244-383E9C7DBA10}|WaterBillApp\\WaterBillApp.csproj|D:\\ky6\\Programming_ 7388\\Models\\WaterBillApp\\waterbillapp\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB8FECF1-C84C-460B-8244-383E9C7DBA10}|WaterBillApp\\WaterBillApp.csproj|solutionrelative:waterbillapp\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB8FECF1-C84C-460B-8244-383E9C7DBA10}|WaterBillApp\\WaterBillApp.csproj|D:\\ky6\\Programming_ 7388\\Models\\WaterBillApp\\waterbillapp\\loginform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{AB8FECF1-C84C-460B-8244-383E9C7DBA10}|WaterBillApp\\WaterBillApp.csproj|solutionrelative:waterbillapp\\loginform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB8FECF1-C84C-460B-8244-383E9C7DBA10}|WaterBillApp\\WaterBillApp.csproj|D:\\ky6\\Programming_ 7388\\Models\\WaterBillApp\\waterbillapp\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB8FECF1-C84C-460B-8244-383E9C7DBA10}|WaterBillApp\\WaterBillApp.csproj|solutionrelative:waterbillapp\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB8FECF1-C84C-460B-8244-383E9C7DBA10}|WaterBillApp\\WaterBillApp.csproj|D:\\ky6\\Programming_ 7388\\Models\\WaterBillApp\\waterbillapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB8FECF1-C84C-460B-8244-383E9C7DBA10}|WaterBillApp\\WaterBillApp.csproj|solutionrelative:waterbillapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB8FECF1-C84C-460B-8244-383E9C7DBA10}|WaterBillApp\\WaterBillApp.csproj|D:\\ky6\\Programming_ 7388\\Models\\WaterBillApp\\waterbillapp\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB8FECF1-C84C-460B-8244-383E9C7DBA10}|WaterBillApp\\WaterBillApp.csproj|solutionrelative:waterbillapp\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB8FECF1-C84C-460B-8244-383E9C7DBA10}|WaterBillApp\\WaterBillApp.csproj|D:\\ky6\\Programming_ 7388\\Models\\WaterBillApp\\waterbillapp\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB8FECF1-C84C-460B-8244-383E9C7DBA10}|WaterBillApp\\WaterBillApp.csproj|solutionrelative:waterbillapp\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB8FECF1-C84C-460B-8244-383E9C7DBA10}|WaterBillApp\\WaterBillApp.csproj|D:\\ky6\\Programming_ 7388\\Models\\WaterBillApp\\waterbillapp\\waterbill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB8FECF1-C84C-460B-8244-383E9C7DBA10}|WaterBillApp\\WaterBillApp.csproj|solutionrelative:waterbillapp\\waterbill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\ky6\\Programming_ 7388\\Models\\WaterBillApp\\WaterBillApp\\Form1.cs",
+              "RelativeDocumentMoniker": "WaterBillApp\\Form1.cs",
+              "ToolTip": "D:\\ky6\\Programming_ 7388\\Models\\WaterBillApp\\WaterBillApp\\Form1.cs [Design]",
+              "RelativeToolTip": "WaterBillApp\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T06:09:10.012Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\ky6\\Programming_ 7388\\Models\\WaterBillApp\\WaterBillApp\\Form1.cs",
+              "RelativeDocumentMoniker": "WaterBillApp\\Form1.cs",
+              "ToolTip": "D:\\ky6\\Programming_ 7388\\Models\\WaterBillApp\\WaterBillApp\\Form1.cs",
+              "RelativeToolTip": "WaterBillApp\\Form1.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAD4v6AAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T06:49:00.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\ky6\\Programming_ 7388\\Models\\WaterBillApp\\WaterBillApp\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "WaterBillApp\\Form1.Designer.cs",
+              "ToolTip": "D:\\ky6\\Programming_ 7388\\Models\\WaterBillApp\\WaterBillApp\\Form1.Designer.cs",
+              "RelativeToolTip": "WaterBillApp\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAOcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T06:14:59.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginForm.resx",
+              "DocumentMoniker": "D:\\ky6\\Programming_ 7388\\Models\\WaterBillApp\\WaterBillApp\\LoginForm.resx",
+              "RelativeDocumentMoniker": "WaterBillApp\\LoginForm.resx",
+              "ToolTip": "D:\\ky6\\Programming_ 7388\\Models\\WaterBillApp\\WaterBillApp\\LoginForm.resx",
+              "RelativeToolTip": "WaterBillApp\\LoginForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-03-04T06:23:34.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginForm.Designer.cs",
+              "DocumentMoniker": "D:\\ky6\\Programming_ 7388\\Models\\WaterBillApp\\WaterBillApp\\LoginForm.Designer.cs",
+              "RelativeDocumentMoniker": "WaterBillApp\\LoginForm.Designer.cs",
+              "ToolTip": "D:\\ky6\\Programming_ 7388\\Models\\WaterBillApp\\WaterBillApp\\LoginForm.Designer.cs",
+              "RelativeToolTip": "WaterBillApp\\LoginForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T06:17:11.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "D:\\ky6\\Programming_ 7388\\Models\\WaterBillApp\\WaterBillApp\\LoginForm.cs",
+              "RelativeDocumentMoniker": "WaterBillApp\\LoginForm.cs",
+              "ToolTip": "D:\\ky6\\Programming_ 7388\\Models\\WaterBillApp\\WaterBillApp\\LoginForm.cs",
+              "RelativeToolTip": "WaterBillApp\\LoginForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T06:17:25.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "D:\\ky6\\Programming_ 7388\\Models\\WaterBillApp\\WaterBillApp\\LoginForm.cs",
+              "RelativeDocumentMoniker": "WaterBillApp\\LoginForm.cs",
+              "ToolTip": "D:\\ky6\\Programming_ 7388\\Models\\WaterBillApp\\WaterBillApp\\LoginForm.cs [Design]",
+              "RelativeToolTip": "WaterBillApp\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T06:17:02.737Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ElectricBill.cs",
+              "DocumentMoniker": "D:\\ky6\\Programming_ 7388\\Models\\WaterBillApp\\WaterBillApp\\ElectricBill.cs",
+              "RelativeDocumentMoniker": "WaterBillApp\\ElectricBill.cs",
+              "ToolTip": "D:\\ky6\\Programming_ 7388\\Models\\WaterBillApp\\WaterBillApp\\ElectricBill.cs",
+              "RelativeToolTip": "WaterBillApp\\ElectricBill.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T06:13:55.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Bill.cs",
+              "DocumentMoniker": "D:\\ky6\\Programming_ 7388\\Models\\WaterBillApp\\WaterBillApp\\Bill.cs",
+              "RelativeDocumentMoniker": "WaterBillApp\\Bill.cs",
+              "ToolTip": "D:\\ky6\\Programming_ 7388\\Models\\WaterBillApp\\WaterBillApp\\Bill.cs",
+              "RelativeToolTip": "WaterBillApp\\Bill.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T06:13:36.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\ky6\\Programming_ 7388\\Models\\WaterBillApp\\WaterBillApp\\Customer.cs",
+              "RelativeDocumentMoniker": "WaterBillApp\\Customer.cs",
+              "ToolTip": "D:\\ky6\\Programming_ 7388\\Models\\WaterBillApp\\WaterBillApp\\Customer.cs",
+              "RelativeToolTip": "WaterBillApp\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T06:13:04.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ky6\\Programming_ 7388\\Models\\WaterBillApp\\WaterBillApp\\Program.cs",
+              "RelativeDocumentMoniker": "WaterBillApp\\Program.cs",
+              "ToolTip": "D:\\ky6\\Programming_ 7388\\Models\\WaterBillApp\\WaterBillApp\\Program.cs",
+              "RelativeToolTip": "WaterBillApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T06:40:49.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WaterBill.cs",
+              "DocumentMoniker": "D:\\ky6\\Programming_ 7388\\Models\\WaterBillApp\\WaterBillApp\\WaterBill.cs",
+              "RelativeDocumentMoniker": "WaterBillApp\\WaterBill.cs",
+              "ToolTip": "D:\\ky6\\Programming_ 7388\\Models\\WaterBillApp\\WaterBillApp\\WaterBill.cs",
+              "RelativeToolTip": "WaterBillApp\\WaterBill.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T06:14:20.029Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1254,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 182,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
